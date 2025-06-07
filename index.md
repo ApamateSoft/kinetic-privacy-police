@@ -66,4 +66,4 @@ Jesús Alberto Mendoza Sánchez
 Bajo la marca de ApamateSoft
 
 ## 9. Versión en Inglés
-English version available: <a href="en/police.md">Privacy Policy</a>
+English version available: <a href="en/police">Privacy Policy</a>
