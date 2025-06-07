@@ -1,21 +1,20 @@
 # Política de Privacidad de Kinetic
 **Fecha de Entrada en Vigor:** 5 de junio de 2025
 
-Esta política explica cómo la aplicación móvil **Kinetic** maneja su información. Kinetic es una
-aplicación para Android desarrollada por Jesús Alberto Mendoza Sánchez bajo la marca de ApamateSoft, que utiliza el
-GPS del dispositivo para mostrar la velocidad de desplazamiento en tiempo real.
+Esta política explica cómo la aplicación móvil **Kinetic** maneja su información. Kinetic es una aplicación para Android
+desarrollada por Jesús Alberto Mendoza Sánchez bajo la marca de ApamateSoft, que utiliza el GPS del dispositivo para 
+mostrar la velocidad de desplazamiento en tiempo real.
 
 ## 1. Información que Recopilamos
 ### 1.1 Versión Actual
-- **Datos de ubicación en tiempo real:** Usamos el GPS de su dispositivo <u>exclusivamente</u> para
-calcular y mostrar su velocidad actual. **Estos datos no se almacenan, comparten ni transmiten a servidores
-externos**.
+- **Datos de ubicación en tiempo real:** Usamos el GPS de su dispositivo <u>exclusivamente</u> para calcular y mostrar 
+su velocidad actual. **Estos datos no se almacenan, comparten ni transmiten a servidores externos**.
 - **Datos personales:** No recopilamos nombres, correos electrónicos, identificadores de dispositivo ni otra información personal.
 
 ### 1.2 Futuras Funcionalidades (Planeadas)
-- **Historial de rutas:** Planeamos a futuro, almacenar localmente sus rutas, velocidades, altitud y tiempos de viaje
-- **Publicidad:** Podríamos integrar servicios de anuncios (ej: AdMob) que recopilen datos anónimos para personalizar anuncios
-- **Versión Pro:** Para compras in-app, planeamos recopilar la información necesaria para preservar sus compras
+- **Historial de rutas:** Planeamos a futuro, almacenar localmente sus rutas, velocidades, altitud y tiempos de viaje.
+- **Publicidad:** Podríamos integrar servicios de anuncios (ej: AdMob) que recopilen datos anónimos para personalizar anuncios.
+- **Versión Pro:** Para compras in-app, planeamos recopilar la información necesaria para preservar sus compras.
 
 ## 2. Finalidad del Tratamiento de Datos
 Actualmente, usamos los datos de GPS **únicamente** para:
@@ -25,7 +24,7 @@ Actualmente, usamos los datos de GPS **únicamente** para:
 ## 3. Bases Legales (GDPR/LGPD)
 Para usuarios en UE y Brasil:
 - **Ejecución de contrato:** El procesamiento es necesario para proporcionar la funcionalidad básica de la aplicación.
-- **Consentimiento:** Para futuras funcionalidades como historial de rutas o publicidad, solicitaremos su consentimiento. explícito.
+- **Consentimiento:** Para futuras funcionalidades como historial de rutas o publicidad, solicitaremos su consentimiento explícito.
 
 ## 4. Derechos de los Usuarios
 De acuerdo con GDPR, CCPA y LGPD usted tiene derecho a:
@@ -34,15 +33,14 @@ De acuerdo con GDPR, CCPA y LGPD usted tiene derecho a:
 - **Portabilidad:** Recibir sus datos en formato estructurado.
 - **Revocar consentimiento:** Para futuras funcionalidades.
 - **No ser discriminado (CCPA):** Por ejercer sus derechos.
-
-**Ejercer sus derechos:** Contacte a nuestro Delegado de Protección de Datos (DPO) en: <a href="mailto:apamatesoft@gmail.com">apamatesoft@gmail.com</a>
+- **Ejercer sus derechos:** Contacte a nuestro Delegado de Protección de Datos (DPO) en: <a href="mailto:apamatesoft@gmail.com">apamatesoft@gmail.com</a>
 
 ## 5. Compartir Información
 **Versión actual:** No compartimos ningún dato con terceros.
 **Futuras actualizaciones:** En caso de integrar:
 - **Analíticos:** Usaremos servicios como Firebase (Google) para estadísticas anónimas.
 - **Publicidad:** Usaremos redes como AdMob (Google) que recopilan datos anónimos.
-- **Almacenamiento:** No se planea almacenar datos en la nube para los históricos de las rutas se usará un almacenamiento completamente local.
+- **Almacenamiento:** No se planea almacenar datos en la nube; para los históricos de las rutas se usará un almacenamiento completamente local.
 
 ## 6. Seguridad de Datos
 Implementamos medidas técnicas como:
@@ -68,4 +66,4 @@ Jesús Alberto Mendoza Sánchez
 Bajo la marca de ApamateSoft
 
 ## 9. Versión en Inglés
-English version available: <a href="en/police.html">Privacy Policy</a>
+English version available: <a href="en/police.md">Privacy Policy</a>
